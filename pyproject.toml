@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 python-dotenv = "^0.21.0"
+tweepy = "^4.12.1"
 
 
 [build-system]
