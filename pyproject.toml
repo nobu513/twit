@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "twit"
+version = "0.1.0"
+description = ""
+authors = ["nobu513 <63525140+nobu513@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-dotenv = "^0.21.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
